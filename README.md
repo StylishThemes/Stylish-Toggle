@@ -20,7 +20,7 @@ Userscript to add a toggle for all applied Stylish themes on any page.
 
 ## Screenshot
 
-![toggle](//cloud.githubusercontent.com/assets/136959/10171801/8afbfd8c-66a1-11e5-8bba-79e4f670321e.gif)
+![toggle](https://cloud.githubusercontent.com/assets/136959/10171801/8afbfd8c-66a1-11e5-8bba-79e4f670321e.gif)
 
 ## Changelog
 
