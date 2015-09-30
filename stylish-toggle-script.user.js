@@ -3,7 +3,7 @@
 // @version      0.0.1-beta
 // @description  Adds button to toggle all applied Stylish themes
 // @namespace    https://github.com/StylishThemes
-// @include      http*github.com*
+// @match        http*://*/*
 // @grant        none
 // @updateURL    https://raw.github.com/StylishThemes/Stylish-Toggle/master/stylish-toggle.user.js
 // @downloadURL  https://raw.github.com/StylishThemes/Stylish-Toggle/master/stylish-toggle.user.js
