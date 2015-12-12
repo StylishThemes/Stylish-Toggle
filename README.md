@@ -17,7 +17,7 @@ Userscript to add a toggle for all applied Stylish themes on any page.
   * Dolphin (install [Tampermonkey](https://tampermonkey.net/?ext=dhdg&browser=dolphin)).
   * UC Browser (install [Tampermonkey](https://tampermonkey.net/?ext=dhdg&browser=ucweb)).
 
-2. Install the "Stylish Toggle" user script by clicking here: [stylish-toggle.user.js](//StylishThemes/Stylish-Toggle/stylish-toggle.user.js).
+2. Install the "Stylish Toggle" user script by clicking here: [stylish-toggle.user.js](//github.com/StylishThemes/Stylish-Toggle/raw/master/stylish-toggle-script.user.js).
 
 ## Screenshot
 
